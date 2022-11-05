@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587933266457",
+    "project_id": "radapp-17e6d",
+    "storage_bucket": "radapp-17e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587933266457:android:3d4cd906ce6310753f7088",
+        "android_client_info": {
+          "package_name": "com.u6amtech.flutter_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587933266457-j7c6ekq24ijdqlueo8e3u2vesml2aqvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbB5nHAyQR45n8cXAgFykvx8JfYZm_Gpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587933266457-j7c6ekq24ijdqlueo8e3u2vesml2aqvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
